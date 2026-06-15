@@ -23,7 +23,7 @@ Através de um site interativo em HTML e CSS, buscamos mostrar como **pequenas a
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Sustentabilidade-Ativa-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge">
 </p>
 
 ---
@@ -71,6 +71,7 @@ projeto/
 │   └── style.css       # Recursos visuais
 │
 └── README.md         # Documentação do projeto
+```
 
 ## ✅ Progresso do Projeto
 
